@@ -1,0 +1,3 @@
+[submodule "TestWalmart"]
+	path = TestWalmart
+	url = https://github.com/LeoLoyo/TestWalmart.git
